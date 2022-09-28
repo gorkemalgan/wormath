@@ -42,6 +42,8 @@ For the purposes of this Privacy Policy:
 * You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 # Collecting and Using Your Personal Data
+Our app processes images on user device. Pictures are not send to cloud for processing and they are not shared with any other third party. Therefore, no picture data is collected or stored.
+
 ## Types of Data Collected
 ### Personal Data
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
